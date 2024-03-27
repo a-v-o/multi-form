@@ -1,4 +1,4 @@
-import background from "../assets/images/bg-sidebar-desktop.svg";
+import background from "/assets/images/bg-sidebar-desktop.svg";
 
 export default function Sidebar({ active }: { active: number }) {
   const items = ["YOUR INFO", "SELECT PLAN", "ADD-ONS", "SUMMARY"];

@@ -1,5 +1,5 @@
 import { Dispatch, Reducer, createContext, useReducer } from "react";
-import background from "./assets/images/bg-sidebar-mobile.svg";
+import background from "/assets/images/bg-sidebar-mobile.svg";
 import Sidebar from "./components/Sidebar";
 import FirstStep from "./components/FirstStep";
 import SecondStep from "./components/SecondStep";

@@ -1,4 +1,4 @@
-import thanks from "../assets/images/icon-thank-you.svg";
+import thanks from "/assets/images/icon-thank-you.svg";
 
 export default function SecondStep() {
   return (
